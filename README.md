@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=10,10,20,20,15&width=100%&height=280&section=header&text=Sulgi's%20GitHub%20Profile&fontSize=55&fontAlignY=40)
+
+
+## Tech Stack
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
+ 
+
 ### Hi there 👋
 
 <!--
