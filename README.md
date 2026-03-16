@@ -1,7 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4,14,24,34,15&width=100%&height=280&section=header&text=Sulgi's%20GitHub%20Profile&fontSize=55&fontAlignY=40)
 
 ## Tech Stack
-JAVA, JAVASCRIPT, SPRINGBOOT, REACT, MYSQL, AWS, OAUTH2
+- JAVA
+- JAVASCRIPT
+- SPRINGBOOT
+- REACT
+- MYSQL
+- PostgreSQL
+- Ubuntu
+- AWS
+- OAUTH2
  
 
 <!--
